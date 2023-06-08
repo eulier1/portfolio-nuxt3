@@ -121,7 +121,7 @@
             <div class="relative">
               <img
                 class="image-header"
-                src="~/assets/img/20230318_134446.jpg"
+                src="~/assets/img/hero-image-nobg1.png"
                 alt=""
               />
             </div>
@@ -151,9 +151,12 @@
 .image-header {
   position: absolute;
   transform: translate(-60%, -40%);
-  max-width: 100vw;
+  max-width: 40vw;
   height: 100vh;
+  -o-object-fit: contain;
   object-fit: contain;
   z-index: -999;
+  opacity: 0.4;
+  filter: grayscale(80%);
 }
 </style>
