@@ -156,7 +156,7 @@
   -o-object-fit: contain;
   object-fit: contain;
   z-index: -999;
-  opacity: 0.4;
+  opacity: 0.7;
   filter: grayscale(80%);
 }
 </style>
