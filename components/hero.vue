@@ -79,7 +79,6 @@
         <div class="lg:hidden">
           <div class="text-center text-stone-400">
             <h2 class="text-2xl">
-              I'M
               <h1
                 class="text-4xl font-bold tracking-tight text-amber-300 opacity-60 sm:text-6xl pb-2"
               >
@@ -99,15 +98,14 @@
         <div class="hidden lg:flex lg:justify-around">
           <div class="text-center text-stone-400">
             <h2 class="text-2xl">
-              I'M
-              <span
+              <h1
                 class="text-2xl tracking-tight text-amber-300 opacity-60 sm:text-6xl"
               >
                 Eulier González
-              </span>
-            </h2>
-            <h2 class="text-2xl mt-4">
-              Software Engineer with Shopify Experience
+              </h1>
+              <h2 class="text-2xl mt-4">
+                Software Engineer with Shopify Experience
+              </h2>
             </h2>
             <div class="mt-10 text-left">
               <a :href="mailto"
