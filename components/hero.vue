@@ -76,7 +76,7 @@
 
     <div class="relative isolate px-6 pt-14 lg:px-8">
       <div class="xs:mx-auto py-32 sm:py-48 lg:py-56">
-        <div class="lg:hidden">
+        <div class="md:hidden">
           <div class="text-center text-stone-400">
             <h2 class="text-2xl">
               <h1
@@ -95,7 +95,7 @@
             </div>
           </div>
         </div>
-        <div class="hidden lg:flex lg:justify-around">
+        <div class="hidden md:flex md:justify-around">
           <div class="text-center text-stone-400">
             <h2 class="text-2xl">
               <h1
