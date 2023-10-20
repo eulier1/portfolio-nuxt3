@@ -132,7 +132,7 @@
 </template>
   
   <script setup>
-  import { ref } from 'vue'
+  import { ref, onMounted } from 'vue'
   import { Dialog, DialogPanel } from '@headlessui/vue'
   import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
   import { breakpointsTailwind, useBreakpoints } from '@vueuse/core'
