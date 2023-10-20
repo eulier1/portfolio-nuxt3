@@ -85,14 +85,14 @@
               >
                 Eulier Gonzalez
               </h1>
-              Full-stack Js/Ts Developer & Consultant
+              Software Engineer with Shopify Experience
             </h2>
             <div class="mt-10 flex items-center justify-center gap-x-6">
-              <button
+              <a :href="mailto"
                 class="rounded border-2 border-amber-400 text-amber-300 p-2.5"
               >
                 Contact Me
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -107,14 +107,14 @@
               </span>
             </h2>
             <h2 class="text-2xl mt-4">
-              Full-stack Js/Ts Developer & Consultant
+              Software Engineer with Shopify Experience
             </h2>
             <div class="mt-10 text-left">
-              <button
+              <a :href="mailto"
                 class="rounded border-2 border-amber-400 text-amber-300 p-2.5 "
               >
                 Contact Me
-              </button>
+              </a>
             </div>
           </div>
           <div class="text-center text-stone-400">
@@ -139,12 +139,15 @@
   import { Bars3Icon, XMarkIcon } from '@heroicons/vue/24/outline'
   
   const navigation = [
-    { name: 'About', href: '#' },
-    { name: 'Portfolio', href: '#' },
-    { name: 'Contact', href: '#' }
+    // { name: 'About', href: '#' },
+    { name: 'Recent Projects', href: '#recent_project' },
+    { name: 'Testimonials', href: '#testimonials' },
+    { name: 'Contact', href: '#contact' }
   ]
   
   const mobileMenuOpen = ref(false)
+
+  const mailto = ref("mailto:eulier1@gmail.com")
   </script>
 
 <style>
