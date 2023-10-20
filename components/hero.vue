@@ -81,7 +81,7 @@
             <h2 class="text-2xl">
               I'M
               <h1
-                class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl pb-2"
+                class="text-4xl font-bold tracking-tight text-amber-300 opacity-60 sm:text-6xl pb-2"
               >
                 Eulier Gonzalez
               </h1>
