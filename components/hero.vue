@@ -119,7 +119,7 @@
             <div class="relative">
               <img
                 class="image-header"
-                src="~/assets/img/hero-image-nobg1.png"
+                src="https://imgur.com/a/AB0PT76"
                 alt=""
               />
             </div>
