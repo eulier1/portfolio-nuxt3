@@ -119,7 +119,7 @@
             <div class="relative">
               <img
                 class="image-header"
-                src="https://imgur.com/a/AB0PT76"
+                src="https://i.imgur.com/kuWasge.png"
                 alt=""
               />
             </div>
