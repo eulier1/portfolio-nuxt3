@@ -159,7 +159,7 @@
 .image-header {
   position: absolute;
   transform: translate(-60%, -40%);
-  max-width: 40vw;
+  min-width: 40vw;
   height: 100vh;
   -o-object-fit: contain;
   object-fit: contain;
