@@ -5,6 +5,6 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   app: {
-    baseUrL: '/portfolio-nuxt3/'
+    baseURL: '/portfolio-nuxt3'
   }
 })
