@@ -3,8 +3,5 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss'
-  ],
-  app: {
-    buildAssetsDir: `/${process.env.BUILD_ASSETS_DIR}/_nuxt/`
-  }
+  ]
 })
