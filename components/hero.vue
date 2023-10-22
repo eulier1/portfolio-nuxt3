@@ -1,6 +1,6 @@
 <template>
   <div class="bg-stone-800 min-h-screen">
-    <header class="absolute inset-x-0 top-0 z-50">
+    <header class="fixed inset-x-0 top-0 z-50">
       <nav
         class="flex items-center justify-between p-6 lg:px-8"
         aria-label="Global"
@@ -64,6 +64,7 @@
                   :key="item.name"
                   :href="item.href"
                   class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
+                  @click="mobileMenuOpen = false"
                   >{{ item.name }}</a
                 >
               </div>
