@@ -313,7 +313,7 @@
         technicalDetails: ["Asset weight reduction ~29.17%", "Time invested ~27.5 Hrs"],
         tech: `Tech : Shopify App Theme Extension, Online Store, Admin Dashboard for Merchants, Vue 2, Nuxt 2, Node.js`,
         url: 'https://getrecipekit.com/',
-        demoUrl: 'https://youtu.be/-bHVIeHPUdw?si=2Tst1o7XB0ZRthZz',
+        demoUrl: 'https://www.youtube.com/watch?v=r-3Bmg9H4Fc',
         blog : [{
           name: 'Technical details description',
           url: 'https://elegant-haupia-1e82c1.netlify.app/2023/september/improve-performance-for-an-upwork-client-with-shopify.html'
